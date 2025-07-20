@@ -11,16 +11,16 @@ A curated collection of **50 hands-on AI and ML projects**—fully working repos
 3. [ML-Student-Performance-Predictor (Linear Regression GUI)](https://github.com/William-Laverty/ML-Student-Performance-Predictor)  
 4. [SmartGrade: Random Forest & Dashboard](https://github.com/VipinChoudhary-dev/SmartGrade-randomforest-ML)  
 5. [Academic Performance Prediction (CNN-based)](https://github.com/ZongJ1111/Academic-Performance-Prediction)  
-6. [data-flair/machine-learning-projects (100+ ML ideas)](https://github.com/data-flair/machine-learning-projects) :contentReference[oaicite:1]{index=1}  
-7. [shsarv/Machine-Learning-Projects (general ML tasks)](https://github.com/shsarv/Machine-Learning-Projects) :contentReference[oaicite:2]{index=2}  
-8. [milaan9/93_Python_Data_Analytics_Projects](https://github.com/milaan9/93_Python_Data_Analytics_Projects) :contentReference[oaicite:3]{index=3}  
-9. [durgeshsamariya/Data-Science-Machine-Learning-Project-with-Source-Code](https://github.com/durgeshsamariya/Data-Science-Machine-Learning-Project-with-Source-Code) :contentReference[oaicite:4]{index=4}  
-10. [Intro-to-AI-Showcases](https://github.com/yinlinchen/Intro-to-AI-Showcases) :contentReference[oaicite:5]{index=5}  
-11. [ml.net – ML.NET library](https://github.com/dotnet/machinelearning) :contentReference[oaicite:6]{index=6}  
-12. [imbalanced-learn toolbox](https://github.com/scikit-learn-contrib/imbalanced-learn) :contentReference[oaicite:7]{index=7}  
-13. [Yooreeka – Java ML library](https://github.com/marmanis/yooreeka) :contentReference[oaicite:8]{index=8}  
-14. [scikit‑learn](https://github.com/scikit-learn/scikit-learn) :contentReference[oaicite:9]{index=9}  
-15. [Infer.NET – Microsoft probabilistic programming](https://github.com/dotnet/infer) :contentReference[oaicite:10]{index=10}  
+6. [data-flair/machine-learning-projects (100+ ML ideas)](https://github.com/data-flair/machine-learning-projects) 
+7. [shsarv/Machine-Learning-Projects (general ML tasks)](https://github.com/shsarv/Machine-Learning-Projects) 
+8. [milaan9/93_Python_Data_Analytics_Projects](https://github.com/milaan9/93_Python_Data_Analytics_Projects) 
+9. [durgeshsamariya/Data-Science-Machine-Learning-Project-with-Source-Code](https://github.com/durgeshsamariya/Data-Science-Machine-Learning-Project-with-Source-Code) 
+10. [Intro-to-AI-Showcases](https://github.com/yinlinchen/Intro-to-AI-Showcases)
+11. [ml.net – ML.NET library](https://github.com/dotnet/machinelearning)  
+12. [imbalanced-learn toolbox](https://github.com/scikit-learn-contrib/imbalanced-learn) 
+13. [Yooreeka – Java ML library](https://github.com/marmanis/yooreeka) 
+14. [scikit‑learn](https://github.com/scikit-learn/scikit-learn)   
+15. [Infer.NET – Microsoft probabilistic programming](https://github.com/dotnet/infer) 
 
 ---
 
@@ -33,9 +33,9 @@ A curated collection of **50 hands-on AI and ML projects**—fully working repos
 20. [Video Surveillance & Tracking System](https://github.com/ApoorvGit/Video-Surveillance-and-tracking-system)  
 21. [Drowsiness Detector](https://github.com/Projects-Developer/Drowsiness-Detector-College-Project)  
 22. [Land Cover Semantic Segmentation (PyTorch)](https://github.com/souvikmajumder26/Land-Cover-Semantic-Segmentation-PyTorch)  
-23. [Indian Sign‑Language Recognition (OpenCV)](https://github.com/Arshad221b/Sign-Language-Recognition) :contentReference[oaicite:11]{index=11}  
-24. [500+ AI CV/NLP/ML Projects collection](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code) :contentReference[oaicite:12]{index=12}  
-25. [fastai](https://github.com/fastai/fastai) – includes many CV notebooks :contentReference[oaicite:13]{index=13}  
+23. [Indian Sign‑Language Recognition (OpenCV)](https://github.com/Arshad221b/Sign-Language-Recognition) 
+24. [500+ AI CV/NLP/ML Projects collection](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code) 
+25. [fastai](https://github.com/fastai/fastai) – includes many CV notebooks
 
 ---
 
@@ -46,9 +46,9 @@ A curated collection of **50 hands-on AI and ML projects**—fully working repos
 28. [Chatbot (Abhinav-26)](https://github.com/Abhinav-26/AI-Chatbot)  
 29. [Rasa (Chatbot framework)](https://github.com/RasaHQ/rasa)  
 30. [Unsupervised Text Summarization (Facebookresearch)](https://github.com/facebookresearch/UnsupervisedMT)  
-31. [awesome-generative-ai (steven2358)](https://github.com/steven2358/awesome-generative-ai) :contentReference[oaicite:14]{index=14}  
-32. [Microsoft generative‑AI for beginners (21 lessons)](https://github.com/microsoft/generative-ai-for-beginners) :contentReference[oaicite:15]{index=15}  
-33. [ChatISA – student-support chatbot](https://github.com/YOUR_ORG/ChatISA) (paper and code) :contentReference[oaicite:16]{index=16}  
+31. [awesome-generative-ai (steven2358)](https://github.com/steven2358/awesome-generative-ai)  
+32. [Microsoft generative‑AI for beginners (21 lessons)](https://github.com/microsoft/generative-ai-for-beginners) 
+33. [ChatISA – student-support chatbot](https://github.com/YOUR_ORG/ChatISA) (paper and code) 
 
 ---
 
@@ -64,8 +64,8 @@ A curated collection of **50 hands-on AI and ML projects**—fully working repos
 
 ## 📊 Finance & Trading (3)
 
-39. [FinRL – DRL stock trading library](https://github.com/AI4Finance-LLC/FinRL-Library) :contentReference[oaicite:17]{index=17}  
-40. [500‑project repo includes finance projects too](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code) (see finance DIY) :contentReference[oaicite:18]{index=18}  
+39. [FinRL – DRL stock trading library](https://github.com/AI4Finance-LLC/FinRL-Library) 
+40. [500‑project repo includes finance projects too](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code) (see finance DIY) {index=18}  
 41. [Time Management Tool](https://github.com/AnubhavChaturvedi-GitHub/Time-Management-Tool) *(time planning, complementary to finance)*  
 
 ---
@@ -81,10 +81,10 @@ A curated collection of **50 hands-on AI and ML projects**—fully working repos
 
 ## 🌍 Cross-Platform / Miscellaneous (5)
 
-46. [project-based-learning (real‑world tutorials)](https://github.com/practical-tutorials/project-based-learning) :contentReference[oaicite:19]{index=19}  
-47. [extensionOS – AI in browser](https://github.com/albertocubeddu/extensionOS) :contentReference[oaicite:20]{index=20}  
-48. [awesome-artificial-intelligence (owainlewis)](https://github.com/owainlewis/awesome-artificial-intelligence) :contentReference[oaicite:21]{index=21}  
-49. [awesome-generative-ai (redundant for emphasis)](https://github.com/steven2358/awesome-generative-ai) *see #31*  
+46. [project-based-learning (real‑world tutorials)](https://github.com/practical-tutorials/project-based-learning) 
+47. [extensionOS – AI in browser](https://github.com/albertocubeddu/extensionOS) 
+48. [awesome-artificial-intelligence (owainlewis)](https://github.com/owainlewis/awesome-artificial-intelligence) 
+49. [awesome-generative-ai (redundant for emphasis)](https://github.com/steven2358/awesome-generative-ai) 
 50. [SeaGOAT – codebase search using AI](https://github.com/kantord/SeaGOAT)  
 
 ---
@@ -111,4 +111,15 @@ Check each project's individual license. This list itself is open for remixing.
 
 ---
 
-*Curated with love and tested links—ready for students to explore and build.*
+## 📝 Acknowledgment & License
+
+> **Disclaimer:**  
+> This curated list is for **educational and reference purposes only**.  
+> All listed repositories belong to their respective authors and are governed by their own licenses.  
+> Please review individual project licenses before using or redistributing their code.
+
+---
+
+> Crafted with ❤️ to empower students, developers, and AI explorers.  
+> **Explore. Learn. Build. Share.**
+
